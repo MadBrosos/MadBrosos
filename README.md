@@ -1,5 +1,11 @@
 # Hi, I'm Baptiste Aka Noot
 
+I'm a French Student currently in 4th year Game Programming at Rubika.
+
+- 💡 I'm currently focusing on developing my **Skills** in designing a **Personal Game Engine**.
+- 📖 I'm currently deepening my knowledge of **OpenGL** and **DX11** while learning about **Vulkan**.
+- ⚒️ I'm also passionate about : **Tech Art** (Shaders, Procedural Modeling/Animation, Fluid Simulation, Tools).
+
 ## Languages : 
 [![C#](https://img.shields.io/badge/csharp-230068?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/c++-659bd3?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
