@@ -1,6 +1,6 @@
-# Hi <img src="[https://github.com/MadBrosos/MadBrosos/assets/86929180/26897fbd-033a-4c50-ad0a-c6dd5d386f99](https://github.com/MadBrosos/MadBrosos/assets/86929180/07eb0bf8-332f-4eb1-9d04-95e86a69b0f2)" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot
+# Hi <img src="https://github.com/MadBrosos/MadBrosos/assets/86929180/07eb0bf8-332f-4eb1-9d04-95e86a69b0f2" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot
 
-<img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/e70e8ca4-673b-4904-8c17-ddf7bde0d666" alt="Toothless">
+<img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/3831d4e2-8376-42da-9a81-da31ae0543e3" alt="Toothless">
 
 I'm a French Student currently in 4th year Game Programming at Rubika.
 
