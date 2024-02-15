@@ -1,8 +1,13 @@
 # Hi, I'm Baptiste Aka Noot
 
 ## Languages : 
+[![C#](https://img.shields.io/badge/csharp-230068?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![C++](https://img.shields.io/badge/c++-659bd3?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![HLSL](https://img.shields.io/badge/hlsl-0101f8?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DirectX)
 
 ## Graphics API :
+[![OpenGL](https://img.shields.io/badge/opengl-659bd3?style=for-the-badge&logo=opengl&logoColor=white)](https://en.wikipedia.org/wiki/OpenGL)
+[![DX11](https://img.shields.io/badge/dx11-a5daa2?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
 
 ## Tools :
 [![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
