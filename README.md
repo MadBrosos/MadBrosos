@@ -1,4 +1,6 @@
-# Hi, I'm Baptiste Aka Noot
+# Hi <img src="https://github.com/MadBrosos/MadBrosos/assets/86929180/26897fbd-033a-4c50-ad0a-c6dd5d386f99" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot
+
+<img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/e70e8ca4-673b-4904-8c17-ddf7bde0d666" alt="Toothless">
 
 I'm a French Student currently in 4th year Game Programming at Rubika.
 
