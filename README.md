@@ -1,7 +1,6 @@
 # Hi <img src="https://github.com/MadBrosos/MadBrosos/assets/86929180/07eb0bf8-332f-4eb1-9d04-95e86a69b0f2" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot
 
 <img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/3831d4e2-8376-42da-9a81-da31ae0543e3" alt="Toothless">
-<img align="left" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/2b005ec6-44ec-4af3-9311-a9edc569b92c" alt="Pedro">
 
 I'm a French Student currently in 4th year Game Programming at Rubika.
 
@@ -25,12 +24,14 @@ I'm a French Student currently in 4th year Game Programming at Rubika.
 [![Houdini](https://img.shields.io/badge/houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)](https://www.sidefx.com/)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 ---
-![Pedro 3_Compress](https://github.com/MadBrosos/MadBrosos/assets/86929180/2b005ec6-44ec-4af3-9311-a9edc569b92c)
 
 <p align="center">
+  <img align="center" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/69dd5a4b-3238-4aab-861b-1cb971b49f42" alt="Pedro">
   <a href="mailto:baptiste.valle@outlook.com">
     <img title="baptiste.valle@outlook.com" src="https://img.shields.io/badge/contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"></a>
     <img title="baptistev." src="https://img.shields.io/badge/baptistev.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   <a href="https://twitter.com/MadBroxs">
     <img title="Noot" src="https://img.shields.io/badge/Noot-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
+    <img align="center" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/4d95387f-7ecf-4725-81bd-d9eb1b9933db" alt="Pedro">
+
 </p>
