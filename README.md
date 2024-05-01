@@ -1,6 +1,7 @@
 # Hi <img src="https://github.com/MadBrosos/MadBrosos/assets/86929180/07eb0bf8-332f-4eb1-9d04-95e86a69b0f2" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot
 
 <img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/3831d4e2-8376-42da-9a81-da31ae0543e3" alt="Toothless">
+<img align="left" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/2b005ec6-44ec-4af3-9311-a9edc569b92c" alt="Pedro">
 
 I'm a French Student currently in 4th year Game Programming at Rubika.
 
@@ -24,6 +25,7 @@ I'm a French Student currently in 4th year Game Programming at Rubika.
 [![Houdini](https://img.shields.io/badge/houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)](https://www.sidefx.com/)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 ---
+![Pedro 3_Compress](https://github.com/MadBrosos/MadBrosos/assets/86929180/2b005ec6-44ec-4af3-9311-a9edc569b92c)
 
 <p align="center">
   <a href="mailto:baptiste.valle@outlook.com">
