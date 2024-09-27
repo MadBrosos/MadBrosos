@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/MadBrosos/MadBrosos/assets/86929180/07eb0bf8-332f-4eb1-9d04-95e86a69b0f2" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot
+# Hi <img src="https://github.com/MadBrosos/MadBrosos/assets/86929180/07eb0bf8-332f-4eb1-9d04-95e86a69b0f2" alt="Noot" style="width: 34px; height: 34px;">, I'm Baptiste Aka Noot / Pingu
 
 <img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/3831d4e2-8376-42da-9a81-da31ae0543e3" alt="Toothless">
 
