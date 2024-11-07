@@ -5,7 +5,7 @@
 I'm a French Student currently in 5th year Game Programming at Rubika.
 
 - 💡 I'm currently focusing on developing my **Skills** in designing a **Personal Game Engine**.
-- 📖 I'm currently deepening my knowledge of **OpenGL** and **DX11** while learning about **Vulkan**.
+- 📖 I'm currently deepening my knowledge of **OpenGL**, **DX11** and **DX12** while learning about **Vulkan**.
 - ⚒️ I'm also passionate about : **Tech Art** (Shaders, Procedural Modeling/Animation, Fluid Simulation, Tools).
 
 ## Languages : 
@@ -15,7 +15,8 @@ I'm a French Student currently in 5th year Game Programming at Rubika.
 
 ## Graphics API :
 [![OpenGL](https://img.shields.io/badge/opengl-659bd3?style=for-the-badge&logo=opengl&logoColor=white)](https://en.wikipedia.org/wiki/OpenGL)
-[![DX11](https://img.shields.io/badge/dx11-a5daa2?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/High-Level_Shader_Language)
+[![DX11](https://img.shields.io/badge/dx11-a5daa2?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DirectX)
+[![DX12](https://img.shields.io/badge/dx11-a5daa2?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DirectX)
 
 ## Tools :
 [![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
