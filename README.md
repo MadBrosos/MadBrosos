@@ -16,7 +16,8 @@ I'm a French Student currently in 5th year Game Programming at Rubika.
 ## Graphics API :
 [![OpenGL](https://img.shields.io/badge/opengl-659bd3?style=for-the-badge&logo=opengl&logoColor=white)](https://en.wikipedia.org/wiki/OpenGL)
 [![DX11](https://img.shields.io/badge/dx11-a5daa2?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DirectX)
-[![DX12](https://img.shields.io/badge/dx12-a5daa2?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DirectX)
+[![DX12](https://img.shields.io/badge/dx12-4f8f4c?style=for-the-badge&logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/DirectX)
+
 
 ## Tools :
 [![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
