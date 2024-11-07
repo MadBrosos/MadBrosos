@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/MadBrosos/MadBrosos/assets/86929180/3831d4e2-8376-42da-9a81-da31ae0543e3" alt="Toothless">
 
-I'm a French Student currently in 4th year Game Programming at Rubika.
+I'm a French Student currently in 5th year Game Programming at Rubika.
 
 - 💡 I'm currently focusing on developing my **Skills** in designing a **Personal Game Engine**.
 - 📖 I'm currently deepening my knowledge of **OpenGL** and **DX11** while learning about **Vulkan**.
